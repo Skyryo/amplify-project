@@ -10,6 +10,29 @@
       "StackName": "amplify-amplifyproject-dev-130300",
       "StackId": "arn:aws:cloudformation:us-east-1:144364300681:stack/amplify-amplifyproject-dev-130300/13cd3190-5e51-11ed-a526-12e46e4f62fb",
       "AmplifyAppId": "d30jowmvn2elsm"
+    },
+    "categories": {
+      "auth": {
+        "amplifyproject72a3b092": {}
+      }
+    }
+  },
+  "sakai": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyproject-sakai-151106-authRole",
+      "UnauthRoleArn": "arn:aws:iam::144364300681:role/amplify-amplifyproject-sakai-151106-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::144364300681:role/amplify-amplifyproject-sakai-151106-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyproject-sakai-151106-deployment",
+      "UnauthRoleName": "amplify-amplifyproject-sakai-151106-unauthRole",
+      "StackName": "amplify-amplifyproject-sakai-151106",
+      "StackId": "arn:aws:cloudformation:us-east-1:144364300681:stack/amplify-amplifyproject-sakai-151106/f8d55590-5e62-11ed-8ef1-0e5e82b7d939",
+      "AmplifyAppId": "d2uqvptr3vtrvc"
+    },
+    "categories": {
+      "auth": {
+        "amplifyproject72a3b092": {}
+      }
     }
   }
 }
