@@ -1,0 +1,65 @@
+html {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .el-header {
+    background-color: #FF9900;
+    color: #FFFFFF;
+  }
+  
+  .routerLink {
+    text-decoration: none;
+  }
+  
+  .is-active {
+    color: #000000 !important;
+  }
+  
+  .dark {
+    background-color: #4d6584;
+    color: white;
+  }
+  
+  .dark * a {
+    color: white !important;
+  }
+  
+  .header_mode {
+    float: left;
+  }
+  
+  .translate-input {
+    width: 500px !important;
+  }
+  
+  p {
+    padding: 24px;
+    color: gray;
+  }
+  
+  .speech-input {
+    width: 500px !important;
+  }
+  
+  .interpretation-input {
+    width: 500px !important;
+  }
+  
+  .result-content {
+    padding: 20px;
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .main-contents {
+    float: left;
+    width: 100%;
+  }
+  
+  .error {
+    color: red;
+  }
