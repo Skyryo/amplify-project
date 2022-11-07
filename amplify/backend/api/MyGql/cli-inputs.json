@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "MyGql",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\13136\\github\\amplify-project\\amplify\\backend\\api\\MyGql\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifyproject72a3b092"
+    },
+    "conflictResolution": {
+      "defaultResolutionStrategy": {
+        "type": "AUTOMERGE"
+      }
+    }
+  }
+}

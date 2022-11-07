@@ -1,0 +1,41 @@
+.title {
+    float: left;
+  }
+  .main-contents {
+    float: left;
+    width: 100%;
+  }
+  .message_base {
+    overflow: auto;
+    max-height: 500px;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    background-color: #eee;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2) inset;
+  }
+  .message {
+    width: 30%;
+    margin: 10px 10px 10px auto;
+    padding: 20px;
+    background-color: #7ade40;
+    border-radius: 10px;
+    word-wrap: break-word;
+  }
+  .message_opponent {
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    word-wrap: break-word;
+  }
+  .username {
+    text-align: right;
+    margin: -12px 10px 0px 0px;
+    font-size: 14px;
+  }
+  .username_opponent {
+    text-align: left;
+    margin: -12px 0px 0px 10px;
+    font-size: 14px;
+  }
